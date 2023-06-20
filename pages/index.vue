@@ -1,6 +1,6 @@
 <template>
     <div class="banner">
-        <h1>หน้าแรก</h1>
+        <h1>หน้าแรกของฉัน</h1>
 
     </div>
 </template>
